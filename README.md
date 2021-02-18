@@ -1,2 +1,2 @@
 # Jpelczynski1.py.app
-Basic calculator program using python
+Simple terminal Tic Tac Toe game coded in python. 
